@@ -80,6 +80,7 @@ public class ApiDemo {
                 result += tmp;
             }
             in.close();
+            fis.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
