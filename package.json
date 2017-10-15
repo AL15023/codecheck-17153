@@ -1,0 +1,11 @@
+{
+  "name": "challenge-recruit-a3rt",
+  "version": "1.0.0",
+  "description": "codecheck challenge",
+  "author": "Givery",
+  "devDependencies": {
+    "codecheck": "^0.6.0",
+    "chai": "^3.5.0",
+    "eslint": "^3.18.0"
+  }
+}
