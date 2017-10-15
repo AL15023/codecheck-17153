@@ -6,5 +6,7 @@ public class App {
 			String output = String.format("argv[%s]: %s", i, args[i]);
 			System.out.println(output);
 		}
+
+		ApiDemo.getResult();
 	}
 }
